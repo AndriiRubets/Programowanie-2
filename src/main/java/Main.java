@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String text = scanner.nextLine();
 
+        String text = scanner.nextLine().trim();
         System.out.println("Wejście: " + text);
         int licznik = 0;
         StringBuilder wynik = new StringBuilder();
@@ -20,6 +20,27 @@ public class Main {
         System.out.println("Ilosc SMS: " + Math.ceil(licznik / 160.0));
     }
 
-
+    private static String skracaczSMS(String text) {
+        String[] tablicaPoSplicie = text.split(" ");
+        StringBuilder wynik = new StringBuilder();
+        for (String s : tablicaPoSplicie) {
+            if (s.isEmpty()) {
+                continue;
+            }
+            char pierwszaLitera = s.charAt(0);
+            pierwszaLitera = Character.toUpperCase(pierwszaLitera);
+            String noweSlowo = pierwszaLitera + s.substring(1);
+            wynik.append(noweSlowo);
+        }
+        return wynik.toString();
+    }
+    private static int kosztSMS(String text){
+        int ileZnakow = text.length();
+        if (ileZnakow <=160) {
+            return 1;
+        }else {
+            return ((ileZnakow-1)/153)+1;
+        }
+    }
 }
 
