@@ -2,19 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="703e2fb7-b991-4aa1-bc6b-645866c45d64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_1/Main_zadLanguage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Rates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Waluty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_1/ZartOChukNorisie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_1/zad_ChukNoriss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Animals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Entertainment_Board_Games.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Entertainment_Books.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Entertainment_Cartoon__Animations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Entertainment_Film.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Entertainment_Japanese_Anime__Manga.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Entertainment_Music.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Entertainment_Television.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Entertainment_Video_Games.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/General_Knowledge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Geography.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/History.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Science_Computers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Science__Nature.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Sports.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Vehicles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/DataCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_1/But.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_1/Glan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_1/Pudelko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_1/Szafa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_1/Szpilka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_1/Trampek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_3_listaPowiazana/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_3_listaPowiazana/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_3_listaPowiazana/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Jas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Malgosia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/LiczbyPierwsze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/Zadanie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zatrzymania_wyjatku/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zatrzymania_wyjatku/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zatrzymania_wyjatku_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_1_wyliczenie_pola_funkcji/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/SlackGSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/ZdjecieKota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInputReadTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_5/Grac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_5/Wyniki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zajecie_5/ZadanieQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/DataCollections.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_1/But.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_1/Glan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_1/Pudelko.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_1/Szafa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_1/Szpilka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_1/Trampek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_3_listaPowiazana/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_3_listaPowiazana/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_2_generiki/zad_3_listaPowiazana/MyNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zad_1_Jas_Małgosia/Jas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zad_1_Jas_Małgosia/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zad_1_Jas_Małgosia/Malgosia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zad_2/LiczbyPierwsze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zad_2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zad_2/Zadanie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zatrzymania_wyjatku/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zatrzymania_wyjatku/MyRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zatrzymania_wyjatku_2/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_3_watki/zatrzymania_wyjatku_2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_4_watki/zad_1_wyliczenie_pola_funkcji/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_4_watki/zad_1_wyliczenie_pola_funkcji/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_4_watki/zad_2_koty/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_4_watki/zad_2_koty/SlackGSon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_4_watki/zad_2_koty/ZdjecieKota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zajecie_5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zajecie_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zajecie_2/Pudelko.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/programowanie_w.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajecie_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zajecie_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajecie_1/Main_zadLanguage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zajecie_1/Main_zadLanguage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajecie_1/Zadanie_domowe/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zajecie_1/Zadanie_domowe/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajecie_1/Zadanie_domowe/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zajecie_1/Zadanie_domowe/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajecie_1/Zadanie_domowe/Rates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zajecie_1/Zadanie_domowe/Rates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajecie_1/Zadanie_domowe/Waluty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zajecie_1/Zadanie_domowe/Waluty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajecie_1/ZartOChukNorisie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zajecie_1/ZartOChukNorisie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajecie_1/zad_ChukNoriss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zajecie_1/zad_ChukNoriss.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,22 +101,64 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="programowanie_2" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/zad_ChukNoriss.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInputReadTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            <state relative-caret-position="153">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Grac.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-493">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-192">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,61 +167,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Main.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="312">
+              <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Waluty.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Bank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Rates.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Wyniki.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/ZartOChukNorisie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Main_zadLanguage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/ZadanieQuiz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -112,10 +203,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pa</find>
+      <find>coll</find>
+      <find>Loca</find>
+      <find>masz</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -123,19 +222,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/Szpilka.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/Glan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/Trampek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/Szafa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_3_listaPowiazana/MyNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_3_listaPowiazana/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/zad_3_listaPowiazana/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/DataCollections.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DetectLanguage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main_zadLanguage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_2_generiki/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3/zatrzymania_wyjatku_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3/zatrzymania_wyjatku_2/Małgosia.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3/zad_1_Jas_Małgosia/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3/zad_1_Jas_Małgosia/Małgosia.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3/zad_1_Jas_Małgosia/Malgosia.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3/zad_1_Jas_Małgosia/Jas.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Jas.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/LiczbyPierwsze.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/Zadanie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_4_watki/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_1_wyliczenie_pola_funkcji/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/zdjecieKota.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/ZdjecieKota.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/SlackGSon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Zadanie_Quiz/ZadanieQuizowe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/ZadanieQuizowe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Pytanie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Przyklad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/ConsoleInputReadTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Example/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Example/ConsoleInputTestConsoleInputTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Example/ConsoleInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Example/ConsoleInputTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Example/ConsoleInputReadTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInputTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInputReadTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Zadanie_Quiz/Grzac.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Zadanie_Quiz/Grac.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Top10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Grac.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/ZadanieQuiz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zajecie_5/Wyniki.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/ZartOChukNorisie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/zad_ChukNoriss.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/BANK.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/ValuesOfRates.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Bank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Rates.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Waluty.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Main.java" />
       </list>
     </option>
   </component>
@@ -147,9 +284,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -157,77 +295,73 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="programowanie_w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programowanie_w" type="462c0819:PsiDirectoryNode" />
+              <item name="programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowanie_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="programowanie_w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programowanie_w" type="462c0819:PsiDirectoryNode" />
+              <item name="programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowanie_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="programowanie_w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programowanie_w" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programowanie_w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programowanie_w" type="462c0819:PsiDirectoryNode" />
+              <item name="programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowanie_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="programowanie_w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programowanie_w" type="462c0819:PsiDirectoryNode" />
+              <item name="programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowanie_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zajecie_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="programowanie_w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programowanie_w" type="462c0819:PsiDirectoryNode" />
+              <item name="programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowanie_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zajecie_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Zadanie_domowe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="programowanie_w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programowanie_w" type="462c0819:PsiDirectoryNode" />
+              <item name="programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programowanie_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programowanie_w" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecie_5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553982544863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564907379784" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/softwareAcademy-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ar\IdeaProjects\programowanie_2\quiz" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,13 +375,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ConsoleInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecie_5.ConsoleInputTest" />
+      <module name="programowanie_w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecie_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zajecie_1.Zadanie_domowe.Main" />
+      <option name="MAIN_CLASS_NAME" value="zajecie_3_watki.zad_2.Main" />
       <module name="programowanie_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zajecie_1.Zadanie_domowe.*" />
+          <option name="PATTERN" value="zajecie_3_watki.zad_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecie_4_watki.zad_2_koty.Main" />
+      <module name="programowanie_w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecie_4_watki.zad_2_koty.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,25 +416,76 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zajecie_1.Main" />
-      <module name="programowanie_2" />
+      <option name="MAIN_CLASS_NAME" value="zajecie_5.Main" />
+      <module name="programowanie_w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecie_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_zadLanguage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zajecie_1.Main_zadLanguage" />
-      <module name="programowanie_2" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecie_5.Example.Main2" />
+      <module name="programowanie_w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecie_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad_ChukNoriss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zajecie_1.zad_ChukNoriss" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecie_3_watki.zatrzymania_wyjatku.Main" />
       <module name="programowanie_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zajecie_1.*" />
+          <option name="PATTERN" value="zajecie_3_watki.zatrzymania_wyjatku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecie_3_watki.zatrzymania_wyjatku_2.Main" />
+      <module name="programowanie_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecie_3_watki.zad_1_Jas_Małgosia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecie_3_watki.zad_1_Jas_Małgosia.Main" />
+      <module name="programowanie_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecie_3_watki.zad_1_Jas_Małgosia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecie_4_watki.zad_2_koty.Main" />
+      <module name="programowanie_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecie_4_watki.zad_2_koty.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,10 +495,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.zad_ChukNoriss" />
-        <item itemvalue="Application.Main_zadLanguage" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ConsoleInputTest" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -301,63 +513,321 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553933384851</updated>
-      <workItem from="1553933387227" duration="32856000" />
+      <workItem from="1553933387227" duration="90810000" />
+      <workItem from="1555138939580" duration="302000" />
+      <workItem from="1555139525648" duration="88509000" />
+      <workItem from="1556183820479" duration="599000" />
+      <workItem from="1558775447391" duration="40000" />
+      <workItem from="1558781630519" duration="1213000" />
+      <workItem from="1564903706825" duration="2960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32856000" />
+    <option name="totallyTimeSpent" value="184433000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Duplicate detector" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.20067114" />
+      <window_info id="Structure" order="1" sideWeight="0.5023585" side_tool="true" weight="0.25637585" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5023585" side_tool="true" weight="0.25637585" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34560907" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicate detector" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="9" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>random.nextInt()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        <state relative-caret-position="149">
+          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Main_zadLanguage.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="-1993">
+          <caret line="322" column="13" selection-start-line="322" selection-start-column="13" selection-end-line="322" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1024">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/nio/file/StandardCopyOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1267" column="34" lean-forward="true" selection-start-line="1267" selection-start-column="34" selection-end-line="1267" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/Zadanie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/gpedro/integrations/slack/slack-webhook/1.4.0/slack-webhook-1.4.0.jar!/net/gpedro/integrations/slack/SlackMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1806">
+          <caret line="139" column="20" selection-start-line="139" selection-start-column="20" selection-end-line="139" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/SlackGSon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/ZdjecieKota.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_2/LiczbyPierwsze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/Animals.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_2_koty/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Malgosia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="506" selection-start-line="506" selection-end-line="506" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Jas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="1537" selection-start-line="1537" selection-end-line="1537" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="441" column="19" selection-start-line="441" selection-start-column="19" selection-end-line="441" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Example/Main2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Example/ConsoleInputTest" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="166" column="6" selection-start-line="166" selection-start-column="6" selection-end-line="166" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInputTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zad_1_Jas_Małgosia/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Pytanie.java" />
+    <entry file="file://$PROJECT_DIR$/data.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zatrzymania_wyjatku/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zatrzymania_wyjatku/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_3_watki/zatrzymania_wyjatku_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_4_watki/zad_1_wyliczenie_pola_funkcji/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -365,72 +835,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/zad_ChukNoriss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Main_zadLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/ZartOChukNorisie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/ConsoleInputReadTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/ZadanieQuiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/ZartOChukNorisie.java">
+    <entry file="file://$PROJECT_DIR$/listaWynikow.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="68">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/ValuesOfRates.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Grac.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="306">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/zad_ChukNoriss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="1104" column="19" selection-start-line="1104" selection-start-column="19" selection-end-line="1104" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Rates.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_5/Wyniki.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Waluty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zajecie_1/Zadanie_domowe/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -463,6 +979,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>bootstrap</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -486,7 +1003,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>programowanie_2</last-edited>
+          <last-edited>programowanie_w</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -510,6 +1027,18 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.detectlanguage:detectlanguage:1.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
